@@ -1,0 +1,15 @@
+/home/denisv/Обучение/Programm/C# домашнее задание(Семинар 1)/Задача 1/bin/Debug/net6.0/Задача 1
+/home/denisv/Обучение/Programm/C# домашнее задание(Семинар 1)/Задача 1/bin/Debug/net6.0/Задача 1.deps.json
+/home/denisv/Обучение/Programm/C# домашнее задание(Семинар 1)/Задача 1/bin/Debug/net6.0/Задача 1.runtimeconfig.json
+/home/denisv/Обучение/Programm/C# домашнее задание(Семинар 1)/Задача 1/bin/Debug/net6.0/Задача 1.dll
+/home/denisv/Обучение/Programm/C# домашнее задание(Семинар 1)/Задача 1/bin/Debug/net6.0/ref/Задача 1.dll
+/home/denisv/Обучение/Programm/C# домашнее задание(Семинар 1)/Задача 1/bin/Debug/net6.0/Задача 1.pdb
+/home/denisv/Обучение/Programm/C# домашнее задание(Семинар 1)/Задача 1/obj/Debug/net6.0/Задача 1.csproj.AssemblyReference.cache
+/home/denisv/Обучение/Programm/C# домашнее задание(Семинар 1)/Задача 1/obj/Debug/net6.0/Задача 1.GeneratedMSBuildEditorConfig.editorconfig
+/home/denisv/Обучение/Programm/C# домашнее задание(Семинар 1)/Задача 1/obj/Debug/net6.0/Задача 1.AssemblyInfoInputs.cache
+/home/denisv/Обучение/Programm/C# домашнее задание(Семинар 1)/Задача 1/obj/Debug/net6.0/Задача 1.AssemblyInfo.cs
+/home/denisv/Обучение/Programm/C# домашнее задание(Семинар 1)/Задача 1/obj/Debug/net6.0/Задача 1.csproj.CoreCompileInputs.cache
+/home/denisv/Обучение/Programm/C# домашнее задание(Семинар 1)/Задача 1/obj/Debug/net6.0/Задача 1.dll
+/home/denisv/Обучение/Programm/C# домашнее задание(Семинар 1)/Задача 1/obj/Debug/net6.0/ref/Задача 1.dll
+/home/denisv/Обучение/Programm/C# домашнее задание(Семинар 1)/Задача 1/obj/Debug/net6.0/Задача 1.pdb
+/home/denisv/Обучение/Programm/C# домашнее задание(Семинар 1)/Задача 1/obj/Debug/net6.0/Задача 1.genruntimeconfig.cache
